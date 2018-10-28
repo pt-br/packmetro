@@ -1,0 +1,295 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "p",
+      "name": "Metró",
+      "publisher": "Metrópole",
+      "tray_image_file": "tray_metro.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_mario.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_marion.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_cavalo.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_bn.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_caminhao.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_homemsofa.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_joia.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_mizera.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_avara.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_dame.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_dame2.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_hul.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_like.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_marestol.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_sacolinha.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16_vaches.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17_yee.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18_anao.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19_bonoropeixe.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20_buta.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21_chupacu.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22_doria.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23_dormissil.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24_kkk.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25_meufi.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26_pericles.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27_yee2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "28_pau.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "29_fudesco.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "30_takeuchi.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "identifier": "m",
+      "name": "Emissoras",
+      "publisher": "Metrópole",
+      "tray_image_file": "tray_transp.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_maresol.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_sem.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_jandaya.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_bestamar.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_bugres.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_muni.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_arquivo.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_podcast.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_cornosul.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_metró.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_trem.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_corisco.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_litoral.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_jandaya.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_metropole.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16_estagiario.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17_fodasecam.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "identifier": "c",
+      "name": "Album Metrópole",
+      "publisher": "Metrópole",
+      "tray_image_file": "tray_cards.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_card_maresol.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_card_telasko.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_card_chupacu.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_card_hulk.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_card_vaches.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_card_lepe.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_card_instala.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_card_boa.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_card_metro.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_card_velha.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_card_minde.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_card_dago.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_card_dormissil.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_card_bebe.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_card_carro.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16_card_sorteio.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    }
+  ]
+}
+
